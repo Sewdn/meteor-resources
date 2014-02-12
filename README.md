@@ -7,6 +7,7 @@ If you want to start learning meteor from scratch (with a minimal background of 
 2. https://www.meteor.com/screencast - Easy example app using only 2 files. A real eye-opener and introduces the core concepts of data-subscriptions and reactivity.
 3. http://andrewscala.com/meteor/ - General info about meteor, structure of a meteor project and an introduction to a few core concepts of the framework
 4. https://github.com/meteor/meteor/examples - checkout this master branch locally and run all of the examples one by one. Look at all of the code in detail and really try to understand the apps line by line.
+
 ´´´bash
 $ git clone git@github.com:meteor/meteor.git
 $ cd examples/leaderboard

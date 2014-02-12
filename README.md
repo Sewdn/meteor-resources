@@ -17,6 +17,6 @@ $ meteor
 7. https://www.eventedmind.com/ - A good collection of screencasts, giving you more insights in the internals of Meteor.
 
 ## More general resources:
-http://docs.meteor.com - the official meteor documentation
-http://www.meteorpedia.com/ - A collection (wiki) covering all of the available resources about meteor.
-http://yauh.de/articles/376/best-learning-resources-for-meteorjs
+ - http://docs.meteor.com - the official meteor documentation
+ - http://www.meteorpedia.com/ - A collection (wiki) covering all of the available resources about meteor.
+ - http://yauh.de/articles/376/best-learning-resources-for-meteorjs

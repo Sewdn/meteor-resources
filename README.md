@@ -13,7 +13,7 @@ $ cd examples/leaderboard
 $ meteor
 ```
 5. https://www.meteor.com/authcast - Second screencast of meteor. Introduction to authorization in meteor.
-6. http://www.discovermeteor.com/ - Buy this book! The best spend $39 of your carreer. With the book you will be building your first app from A to Z learning all of the concepts in meteor. The book provides you with enough code examples and thorough explanations to really bootstrap you as a meteor developer!
+6. http://www.discovermeteor.com/ - Buy this book! The best spend $39 of your career. With the book you will be building your first app from A to Z learning all of the concepts in meteor. The book provides you with enough code examples and thorough explanations to really bootstrap you as a meteor developer!
 7. https://www.eventedmind.com/ - A good collection of screencasts, giving you more insights in the internals of Meteor.
 
 ## More general resources:
